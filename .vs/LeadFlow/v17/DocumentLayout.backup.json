@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjfor\\source\\repos\\LeadFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B32709-498E-436B-883A-15130F3CE879}|src\\LeadFlow.Api\\LeadFlow.Api.csproj|c:\\users\\jjfor\\source\\repos\\leadflow\\src\\leadflow.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B32709-498E-436B-883A-15130F3CE879}|src\\LeadFlow.Api\\LeadFlow.Api.csproj|solutionrelative:src\\leadflow.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127D3011-CCB7-4914-AAB3-3084D3D582FF}|tests\\LeadFlow.Tests\\LeadFlow.Tests.csproj|c:\\users\\jjfor\\source\\repos\\leadflow\\tests\\leadflow.tests\\smoketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127D3011-CCB7-4914-AAB3-3084D3D582FF}|tests\\LeadFlow.Tests\\LeadFlow.Tests.csproj|solutionrelative:tests\\leadflow.tests\\smoketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B32709-498E-436B-883A-15130F3CE879}|src\\LeadFlow.Api\\LeadFlow.Api.csproj|c:\\users\\jjfor\\source\\repos\\leadflow\\src\\leadflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B32709-498E-436B-883A-15130F3CE879}|src\\LeadFlow.Api\\LeadFlow.Api.csproj|solutionrelative:src\\leadflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\jjfor\\source\\repos\\LeadFlow\\src\\LeadFlow.Api\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "src\\LeadFlow.Api\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\jjfor\\source\\repos\\LeadFlow\\src\\LeadFlow.Api\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "src\\LeadFlow.Api\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T00:04:12.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmokeTests.cs",
+              "DocumentMoniker": "C:\\Users\\jjfor\\source\\repos\\LeadFlow\\tests\\LeadFlow.Tests\\SmokeTests.cs",
+              "RelativeDocumentMoniker": "tests\\LeadFlow.Tests\\SmokeTests.cs",
+              "ToolTip": "C:\\Users\\jjfor\\source\\repos\\LeadFlow\\tests\\LeadFlow.Tests\\SmokeTests.cs",
+              "RelativeToolTip": "tests\\LeadFlow.Tests\\SmokeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:56:41.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjfor\\source\\repos\\LeadFlow\\src\\LeadFlow.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\LeadFlow.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\jjfor\\source\\repos\\LeadFlow\\src\\LeadFlow.Api\\Program.cs",
+              "RelativeToolTip": "src\\LeadFlow.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T23:49:27.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
